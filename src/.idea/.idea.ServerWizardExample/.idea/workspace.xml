@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="660fa9eb-65bd-4ee3-a190-2e26134b5935" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/StepModelBinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/PersonalInformationStep.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/PersonalInformationStep.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/StepMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/ContactInformationStep.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/ContactInformationStep.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/TempDataExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/StepViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contacts/ContactService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/StepModelBinderProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contacts/Contact.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/Wizard/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/ContactDirectory/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pages/ContactDirectory/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Contacts/Contact.cs" />
+        <option value="$PROJECT_DIR$/Pages/TempDataExtensions.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/PersonalInformationStep.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/ContactInformationStep.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/WizardMapper.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/StepMapper.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/ContactInformationStep.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/PersonalInformationStep.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/StepViewModel.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/ContactInformationStep.cshtml.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/ContactInformationStep.cshtml" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/PersonalInformationStep.cshtml.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Steps/PersonalInformationStep.cshtml" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/ContactInformationStep.cshtml.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/PersonalInformationStep.cshtml.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/StepMapper.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/StepViewModel.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/StepModelBinder.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/ContactInformationStep.cshtml" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/PersonalInformationStep.cshtml" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Pages/ContactDirectory/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/Pages/ContactDirectory/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Pages/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Contacts/ContactService.cs" />
+        <option value="$PROJECT_DIR$/Pages/Wizard/Index.cshtml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b2LMqhijiJxmD79iFScELVD5l7" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/android-sdk-2" />
+    <property name="settings.editor.selected.configurable" value="device.file.explorer" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.ServerWizardExample">
+    <configuration name="ServerWizardExample" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ServerWizardExample.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="ServerWizardExample" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerWizardExample: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ServerWizardExample.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="660fa9eb-65bd-4ee3-a190-2e26134b5935" name="Default Changelist" comment="" />
+      <created>1587825196518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587825196518</updated>
+      <workItem from="1587825197873" duration="4422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1587829688402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587829688402" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1587828655352" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1587829688401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587829688401" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1587828655352" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1587829688244">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587829688244" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1587828655351" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1587829688402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587829688402" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1587828655352" />
+    <state x="383" y="149" width="672" height="678" key="search.everywhere.popup" timestamp="1587827972854">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="383" y="149" width="672" height="678" key="search.everywhere.popup/0.23.1440.805@0.23.1440.805" timestamp="1587827972854" />
+  </component>
+</project>

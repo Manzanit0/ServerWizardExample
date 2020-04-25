@@ -1,0 +1,31 @@
+@model ContactInformationStep
+
+<div>
+    <div asp-validation-summary="None" class="text-danger"></div>
+
+    <div class="row my-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">Contact Information</div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label asp-for="Email" class="control-label required"></label>
+                                <input asp-for="Email" class="form-control cleave-ssn"/>
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label asp-for="Phone" class="control-label"></label>
+                                <input asp-for="Phone" class="form-control"/>
+                                <span asp-validation-for="Phone" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,36 @@
+@page
+@model ServerWizardExample.Pages.Wizard.Index
+
+@{
+    ViewData["Title"] = "New";
+    var currentStep = Model.Steps[Model.CurrentStepIndex];
+    var viewName = currentStep.ToString().Substring(currentStep.ToString().LastIndexOf('.') + 1);
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.Hidden("StepType", Model.Steps[Model.CurrentStepIndex].GetType())
+    @Html.HiddenFor(m => m.CurrentStepIndex, Model.CurrentStepIndex)
+    @await Html.PartialAsync(viewName, currentStep)
+
+    if (Model.CurrentStepIndex > 0)
+    {
+        <input type="submit" value="Previous" name="prev" asp-page-handler="Previous" class="btn btn-secondary"/>
+    }
+
+    if (Model.CurrentStepIndex < (Model.Steps.Count - 1))
+    {
+        <input type="submit" value="Next" name="next" asp-page-handler="Next" class="btn btn-primary"/>
+        <input type="submit" value="Save & Close" name="save" asp-page-handler="Finish" class="btn btn-primary float-right"/>
+    }
+    else
+    {
+        <input type="submit" value="Finish" name="finish" asp-page-handler="Finish" class="btn btn-primary"/>
+    }
+}
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
+
